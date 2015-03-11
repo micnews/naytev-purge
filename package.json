@@ -1,0 +1,23 @@
+{
+  "name": "naytev-purge",
+  "version": "0.0.0",
+  "description": "Purge the open graph-cache in naytev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micnews/naytev-purge"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micnews/naytev-purge/issues"
+  },
+  "homepage": "https://github.com/micnews/naytev-purge",
+  "dependencies": {
+    "hyperquest": "^1.0.1",
+    "stream-to-json": "0.0.1"
+  }
+}
