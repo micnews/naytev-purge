@@ -1,6 +1,6 @@
 {
   "name": "naytev-purge",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Purge the open graph-cache in naytev",
   "main": "index.js",
   "scripts": {
